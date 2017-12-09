@@ -1,0 +1,6 @@
+framework module Pods_ProjectOne {
+  umbrella header "Pods-ProjectOne-umbrella.h"
+
+  export *
+  module * { export * }
+}
