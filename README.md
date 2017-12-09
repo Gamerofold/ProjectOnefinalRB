@@ -9,7 +9,9 @@ Swiping left on Project gives MoveUp, MoveDown, Delete options using Action butt
 # <img src="Screen-Shot-Edit-Screen.png" width="170" height="300" />
 
 - Login Screen with Google Sign In -
-# <img src="AuthScreen.png" width="170" height="300" />
+# <img src="LoginScreen.png" width="170" height="300" />
+
+# <img src="AuthScreen.png" width="55" height="100" />
 
 Note: Prototype included in PDF/Note file called "ProjectOneFB".
 
